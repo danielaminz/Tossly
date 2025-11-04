@@ -42,16 +42,17 @@ The early music box concept aimed for complex theatre. The final system is inten
 
 See also
 
-[Project overview](docs/01_ProjectOverview.md)
+[02 – Design rationale](../docs/02_DesignRationale.md)
 
-[System architecture](docs/03_SystemArchitecture.md)
+[03 – System architecture](../docs/03_SystemArchitecture.md)
 
-[Software, ML and actuation](docs/04_Software_ML_Actuation.md)
+[04 – Software, ML and actuation](../docs/04_Software_ML_Actuation.md)
 
-[Hardware and fabrication](docs/05_Hardware_Fabrication.md)
+[05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
 
-[Testing, failures and iterations](docs/06_Testing_Failures_Iterations.md)
+[06 – Testing, failures and iterations](../docs/06_Testing_Failures_Iterations.md)
 
-[Reflection and learning outcomes](docs/07_Reflection_Learnings.md)
+[07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
+
 
 Project by Group 17, Cyber Physical Systems 2025–26
