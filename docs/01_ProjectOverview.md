@@ -36,7 +36,19 @@ Camera → Python (MediaPipe feature extraction) → Wekinator (gesture classifi
 The initial concept was a large scale Royal Albert Hall automaton with live punched music strips and stage motion. Mechanical complexity and weight forced a pivot. The theatrical essence survived in Tossly as a focused moment, a fan reveal and a music box that plays when someone wins.
 
 See also
-- Design rationale: 02_DesignRationale.md
-- System architecture: 03_SystemArchitecture.md
+
+[Project overview](docs/01_ProjectOverview.md)
+
+[Design rationale](docs/02_DesignRationale.md)
+
+[System architecture](docs/03_SystemArchitecture.md)
+
+[Software, ML and actuation](docs/04_Software_ML_Actuation.md)
+
+[Hardware and fabrication](docs/05_Hardware_Fabrication.md)
+
+[Testing, failures and iterations](docs/06_Testing_Failures_Iterations.md)
+
+[Reflection and learning outcomes](docs/07_Reflection_Learnings.md)
 
 Project by Group 17, Cyber Physical Systems 2025–26
