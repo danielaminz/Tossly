@@ -37,16 +37,19 @@ The initial concept was a large scale Royal Albert Hall automaton with live punc
 
 See also
 
-[Design rationale](docs/02_DesignRationale.md)
+See also:
 
-[System architecture](docs/03_SystemArchitecture.md)
+[02 – Design rationale](../docs/02_DesignRationale.md)
 
-[Software, ML and actuation](docs/04_Software_ML_Actuation.md)
+[03 – System architecture](../docs/03_SystemArchitecture.md)
 
-[Hardware and fabrication](docs/05_Hardware_Fabrication.md)
+[04 – Software, ML and actuation](../docs/04_Software_ML_Actuation.md)
 
-[Testing, failures and iterations](docs/06_Testing_Failures_Iterations.md)
+[05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
 
-[Reflection and learning outcomes](docs/07_Reflection_Learnings.md)
+[06 – Testing, failures and iterations](../docs/06_Testing_Failures_Iterations.md)
+
+[07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
+
 
 Project by Group 17, Cyber Physical Systems 2025–26
