@@ -78,4 +78,5 @@ See also
 [05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
 
 [07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
+
 Project by Group 17, Cyber Physical Systems 2025–26
