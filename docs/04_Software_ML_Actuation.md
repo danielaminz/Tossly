@@ -82,7 +82,17 @@ Relevant code
 - The architecture remains teachable and inspectable
 
 See also
-- Hardware and fabrication, 05_Hardware_Fabrication.md
-- Testing and iterations, 06_Testing_Failures_Iterations.md
+
+[01 – Project overview](../docs/01_ProjectOverview.md)
+
+[02 – Design rationale](../docs/02_DesignRationale.md)
+
+[03 – System architecture](../docs/03_SystemArchitecture.md)
+
+[05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
+
+[06 – Testing, failures and iterations](../docs/06_Testing_Failures_Iterations.md)
+
+[07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
 
 Project by Group 17, Cyber Physical Systems 2025–26
