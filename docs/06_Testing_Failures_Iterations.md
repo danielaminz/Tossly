@@ -66,6 +66,16 @@ Camera → Python → Wekinator → Processing → Arduino 1 for digits → Ardu
 - Export Wekinator model and run without the app
 
 See also
-- Reflection and outcomes, 07_Reflection_Learnings.md
 
+[01 – Project overview](../docs/01_ProjectOverview.md)
+
+[02 – Design rationale](../docs/02_DesignRationale.md)
+
+[03 – System architecture](../docs/03_SystemArchitecture.md)
+
+[04 – Software, ML and actuation](../docs/04_Software_ML_Actuation.md)
+
+[05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
+
+[07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
 Project by Group 17, Cyber Physical Systems 2025–26
