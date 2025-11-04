@@ -46,4 +46,18 @@ We learned that motion has weight, delay, and cost, and that a system can be tec
 
 Tossly is not a finished product, it is a coherent object that works within real constraints. It shows that a machine can communicate through motion, that mechanisms can be expressive without pretending to be invisible, and that intelligence can be physical as well as computational.
 
+
+[01 – Project overview](../docs/01_ProjectOverview.md)
+
+[02 – Design rationale](../docs/02_DesignRationale.md)
+
+[03 – System architecture](../docs/03_SystemArchitecture.md)
+
+[04 – Software, ML and actuation](../docs/04_Software_ML_Actuation.md)
+
+[05 – Hardware and fabrication](../docs/05_Hardware_Fabrication.md)
+
+[06 – Testing, failures and iterations](../docs/06_Testing_Failures_Iterations.md)
+
+
 Project by Group 17, Cyber Physical Systems 2025–26
