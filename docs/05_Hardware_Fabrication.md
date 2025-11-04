@@ -69,7 +69,17 @@ The goal was one Arduino and a single PCA9685 board. Three issues forced a split
 - Visible motion communicates more effectively than lights
 
 See also
-- Software, ML and actuation, 04_Software_ML_Actuation.md
-- Testing and iterations, 06_Testing_Failures_Iterations.md
+
+[01 – Project overview](../docs/01_ProjectOverview.md)
+
+[02 – Design rationale](../docs/02_DesignRationale.md)
+
+[03 – System architecture](../docs/03_SystemArchitecture.md)
+
+[04 – Software, ML and actuation](../docs/04_Software_ML_Actuation.md)
+
+[06 – Testing, failures and iterations](../docs/06_Testing_Failures_Iterations.md)
+
+[07 – Reflection and learning outcomes](../docs/07_Reflection_Learnings.md)
 
 Project by Group 17, Cyber Physical Systems 2025–26
