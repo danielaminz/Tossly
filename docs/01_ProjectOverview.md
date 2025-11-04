@@ -37,8 +37,6 @@ The initial concept was a large scale Royal Albert Hall automaton with live punc
 
 See also
 
-[Project overview](docs/01_ProjectOverview.md)
-
 [Design rationale](docs/02_DesignRationale.md)
 
 [System architecture](docs/03_SystemArchitecture.md)
