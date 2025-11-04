@@ -41,6 +41,7 @@ Tossly is a small arena where the game is performed physically. Scores are shown
 The early music box concept aimed for complex theatre. The final system is intentionally simpler, but preserves the intention to communicate through motion and sound. The pivot traded ornament for legibility and made choreography, not props, the centre of the interaction.
 
 See also
+
 [01 – Project overview](../docs/01_ProjectOverview.md)
 
 [03 – System architecture](../docs/03_SystemArchitecture.md)
